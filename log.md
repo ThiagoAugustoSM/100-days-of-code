@@ -13,3 +13,15 @@
 **Today's Progress**: I continued solving the intermidiate algorithms from FreeCodeCamp.
 
 **Thoughts:** I strugled about some functions in javascript, i was switching and confusing it with some python functions.
+
+### Day 3: January 4, 2018
+
+**Today's Progress**: I restarted building my personal website.
+
+**Thoughts:** I strugled about using NavBar in BootStrap 4.
+
+### Day 3: January 5, 2018
+
+**Today's Progress**: I continued trying to build my personal website.
+
+**Thoughts:** I still couldn't be able to fix the problem with the Bootstrap 4, i don't know if the problem is with the Pug(template for Express.js) or the new version of bootstrap 4.
