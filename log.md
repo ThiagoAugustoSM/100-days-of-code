@@ -20,8 +20,14 @@
 
 **Thoughts:** I strugled about using NavBar in BootStrap 4.
 
-### Day 3: January 5, 2018
+### Day 4: January 5, 2018
 
 **Today's Progress**: I continued trying to build my personal website.
 
 **Thoughts:** I still couldn't be able to fix the problem with the Bootstrap 4, i don't know if the problem is with the Pug(template for Express.js) or the new version of bootstrap 4.
+
+### Day 5: January 6, 2018
+
+**Today's Progress**: I continued trying to build my personal website.
+
+**Thoughts:** I decide to stop using Pug and building templates with Express.js for now, i will prefer to do it in plain html to get confidence about what i'm building.
