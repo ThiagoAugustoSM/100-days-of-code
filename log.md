@@ -31,3 +31,9 @@
 **Today's Progress**: I continued trying to build my personal website.
 
 **Thoughts:** I decide to stop using Pug and building templates with Express.js for now, i will prefer to do it in plain html to get confidence about what i'm building.
+
+### Day 6: January 7, 2018
+
+**Today's Progress**: I continued trying to build my personal website.
+
+**Thoughts:** I almost didn't do the challenge today. I let it went to the last minutes of the day, i have to be more careful now. I had some problems choosing the color theme to my website and changing the css of it.
