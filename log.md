@@ -37,3 +37,11 @@
 **Today's Progress**: I continued trying to build my personal website.
 
 **Thoughts:** I almost didn't do the challenge today. I let it went to the last minutes of the day, i have to be more careful now. I had some problems choosing the color theme to my website and changing the css of it.
+
+### Day 7: January 8, 2018
+
+**Today's Progress**: I finished the portfolio project from FreeCodeCamp.
+
+**Thoughts:** I realized that using framework that are in beta development could be hard, sometimes the error isn't yours. But reading the documentation is the best thing to be done.
+
+**Link to work:** [Portfolio](https://codepen.io/thiagoaugustosm/pen/XeOdeO)
