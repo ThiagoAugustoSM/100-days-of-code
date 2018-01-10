@@ -45,3 +45,11 @@
 **Thoughts:** I realized that using framework that are in beta development could be hard, sometimes the error isn't yours. But reading the documentation is the best thing to be done.
 
 **Link to work:** [Portfolio](https://codepen.io/thiagoaugustosm/pen/XeOdeO)
+
+### Day 8: January 9, 2018
+
+**Today's Progress**: I started the Random Quote Machine Project
+
+**Thoughts:** I had some problems using an API, quotedesign, because it wasn't changing the quote and i made other GETs to the API's endpoint, so i will checkout other sources to solve this challenge.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/thiagoaugustosm/pen/PJMEVQ?editors=1010)
