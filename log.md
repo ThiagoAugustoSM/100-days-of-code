@@ -53,3 +53,9 @@
 **Thoughts:** I had some problems using an API, quotedesign, because it wasn't changing the quote and i made other GETs to the API's endpoint, so i will checkout other sources to solve this challenge.
 
 **Link to work:** [Random Quote Machine](https://codepen.io/thiagoaugustosm/pen/PJMEVQ?editors=1010)
+
+### Day 9: January 10, 2018
+
+**Today's Progress**: Didn't do much today. I read some texts on medium and tried to finish up some coding challenges in freeCodeCamp.
+
+**Thoughts:** I really need to do this in the morning. I get to tired in the end of the day.
